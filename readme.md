@@ -1,5 +1,7 @@
 # Iris Flower Classification
 
+## Blog link: https://medium.com/analytics-vidhya/exploratory-data-analysis-iris-flower-dataset-a21c368a1f4
+
 ### About Dataset 
 * In this dataset we have 3 species of flower of iris family
 * Data have 4 dimentions 
